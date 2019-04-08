@@ -1,0 +1,20 @@
+{
+    "name": "vendor/wild",
+    "description": "wild",
+    "type": "project",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+   },
+    "authors": [
+        {
+            "name": "madbrain67",
+            "email": "ferrerofranck@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
